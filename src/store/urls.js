@@ -1,4 +1,4 @@
-const BASE_URL = "https://animefreak.vercel.app/";
+const BASE_URL = "https://animefreak.vercel.app/api/v1";
 
 export const LATEST = `${BASE_URL}/LatestEpisodes/`;
 export const LETTER = `${BASE_URL}/Alphabet`;
